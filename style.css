@@ -1,3 +1,11 @@
+* {
+  font-family: Helvetica, sans-serif
+}
+
 h1 {
+  color: DodgerBlue;
+}
+
+h2 {
   color: DodgerBlue;
 }
