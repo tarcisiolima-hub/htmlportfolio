@@ -12,6 +12,10 @@ header {
   width: 100px;
 }
 
+.menu p {
+  width: 200px;
+}
+
 h1 {
   color: DodgerBlue;
 }
@@ -35,7 +39,7 @@ h2 {
   border-radius: 50%;
   border: white 5px solid;
   position: absolute;
-  top: 60px;
+  top: 80px;
   right: 20px;
 }
 
