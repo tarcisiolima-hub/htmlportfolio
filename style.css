@@ -18,3 +18,10 @@ h2 {
   background-color: lightgray;
   padding: 10px;
 }
+
+.foto {
+  border-radius: 50%;
+  position: absolute
+  top: 100px;
+  right: 20px;
+}
