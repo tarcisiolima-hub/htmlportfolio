@@ -7,6 +7,10 @@ header {
   color: white;
 }
 
+.menu {
+  display: inline-block;
+}
+
 h1 {
   color: DodgerBlue;
 }
