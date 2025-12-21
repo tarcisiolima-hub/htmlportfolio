@@ -9,6 +9,7 @@ header {
 
 .menu {
   display: inline-block;
+  width: 100px;
 }
 
 h1 {
@@ -34,7 +35,7 @@ h2 {
   border-radius: 50%;
   border: white 5px solid;
   position: absolute;
-  top: 30px;
+  top: 60px;
   right: 20px;
 }
 
