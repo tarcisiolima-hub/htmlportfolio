@@ -5,6 +5,8 @@
 header {
   background-color: DodgerBlue;
   color: white;
+  display: flex;
+  gap: 30px;
 }
 
 .menu {
